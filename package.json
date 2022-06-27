@@ -1,7 +1,7 @@
 {
   "name": "jasmine-pretty-html-reporter-jasmine3.8",
   "description": "an easy to use html page for looking at jasmine test results",
-  "author": "stuisme",
+  "author": "Kumar",
   "main": "index.js",
   "version": "0.2.5",
   "keywords": [
