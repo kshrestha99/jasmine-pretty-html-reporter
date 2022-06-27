@@ -1,5 +1,5 @@
 {
-  "name": "jasmine-pretty-html-reporter",
+  "name": "jasmine-pretty-html-reporter-jasmine3.8",
   "description": "an easy to use html page for looking at jasmine test results",
   "author": "stuisme",
   "main": "index.js",
@@ -18,7 +18,7 @@
     "url": "https://github.com/stuisme/jasmine-pretty-html-reporter/issues"
   },
   "peerDependencies": {
-    "jasmine": "^2.4.1"
+    "jasmine": "^3.8.0"
   },
   "license": "MIT"
 }
